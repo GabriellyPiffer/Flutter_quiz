@@ -90,19 +90,19 @@ Este projeto foi desenvolvido com fins educacionais, visando praticar conceitos 
 
 ### 🏠 Tela Inicial
 
-<img src="./assets/info/print1.png" width="250"/>
+<img src="./flutter_quiz/assets/info/print1.png" width="250"/>
 
 ---
 
 ### ❓ Tela de Perguntas
 
-<img src="./assets/info/print2.png" width="250"/>
+<img src="./flutter_quiz/assets/info/print2.png" width="250"/>
 
 ---
 
 ### 🏆 Resultado Final
 
-<img src="./assets/info/print3.png" width="250"/>
+<img src="./flutter_quiz/assets/info/print3.png" width="250"/>
 
 </div>
 
